@@ -1,0 +1,87 @@
+body {
+  background-color: #eaf4e4;
+  color: #24452f;
+  font-family: Georgia, serif;
+}
+h1, h2, h3 {
+    font-family: "Comic Sans MS", sans-serif;
+    color: #1eff00;
+    font-weight: bold;
+
+
+}
+
+p {
+    color: #ffb700;
+    font-family: "Times New Roman", serif;
+}
+ul,ol, li {
+    color: #ff0080;
+    font-family: "Times New Roman", serif;
+}
+
+figure {
+  margin: 20px 0;
+}
+
+img {
+  height: 250px;
+  width: auto;
+  border-radius: 8px;
+}
+
+figcaption {
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  font-family: inherit;
+}
+
+label {
+  margin-right: 12px;
+}
+
+fieldset {
+  max-width: 400px;
+  padding: 12px;
+  border: 1px solid #24452f;
+}
+
+legend {
+  font-weight: bold;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #24452f;
+  margin: 20px 0;
+}
+.rate {
+  color: rgb(100, 122, 254);
+}
+.recipe-page {
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 24px;
+}
+
+.wrapper {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.wrapper div {
+  flex: 1;
+  min-width: 0;
+}
+
+
+ 
+
